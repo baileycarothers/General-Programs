@@ -1,0 +1,15 @@
+John Smith	Sage Of The Curse	43152255	NA	0	0	0
+Sarah Williams	Slave Of The Stockades	24624561	lsa2569	9	19	2017
+Howard Johnson	Strangers Of Wind	21163695	NA	0	0	0
+Lewis Davis	Defenders Of Fortune	16962541	NA	0	0	0
+Maurice Willis	Knights And Enemies	23114978	fjs1545	12	10	2017
+Marvin Gardner	Surprise Of The Stars	10121313	fjs1545	1	16	2018
+Tyler Briggs	Chase Of The Mountain	11385716	smm1235	4	2	2018
+Carlos Barber	Breathing In The Depths	54643696	NA	0	0	0
+Jose Carey	Awakening The Beginning	21478649	NA	0	0	0
+Craig Cohen	Foes And Hunters	74311456	NA	0	0	0
+Mauri Williams	Knights And Frinds	41456548	fjs1545	11	10	2017
+Marv Smith	Surprise Of The Century	46462694	fjs1545	1	15	2018
+Tyler Briggs	Chase Of The Mountain:2	54550145	smm1235	4	2	2018
+Sheila Harris	Another Book		12478155	smm1235	5	2	2018
+Sheila Harris	Another Book:2		11452558	smm1235	5	2	2018
